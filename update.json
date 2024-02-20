@@ -1,0 +1,30 @@
+{
+  "addons": [
+    {
+      "{2fc5fd6e-d930-4e33-9e2d-2f2f4b89d0e1}": {
+        "updates": [
+          {
+            "version": "1.0",
+            "update_link": "https://drive.google.com/file/d/1H3WD5hNFpxRg4jshscI_LuqGHrR6wx4e/view?usp=sharing"
+          },
+          {
+            "version": "1.0.1",
+            "update_link": "https://drive.google.com/file/d/1WT_fLqTJ7vi10ztvtFOi25pYc9TFy8zo/view?usp=sharing"
+          },
+          {
+            "version": "1.2",
+             "update_link": "https://drive.google.com/file/d/1H4jW0fy5AyVXVvpj6DYpIe3pZ2tV05Ky/view?usp=sharing"
+          },
+          {
+            "version": "1.3",
+             "update_link": "https://drive.google.com/file/d/1H7fj_ChoA-ZwA9fpSU5avPYQKkqVZ_qT/view?usp=sharing"
+          },
+          {
+            "version": "1.4",
+            "update_link": "https://drive.google.com/file/d/1KjuiFJyvrXTfss4u17Fo8IFK6ESwVKez/view?usp=sharing"
+          }
+        ]
+      }
+    }
+  ]
+}
