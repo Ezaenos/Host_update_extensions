@@ -1,10 +1,12 @@
 {"addons": [{"nouvel_onglet_prive@example.com": 
     {"updates": 
         [{
-            "version": "1.0","update_link": "https://drive.google.com/file/d/1H3WD5hNFpxRg4jshscI_LuqGHrR6wx4e/view?usp=sharing"
+            "version": "1.0",
+            "update_link": "https://github.com/Ezaenos/Minnie_live_alert/raw/main/newtab/870ccb0ab0954338897b-1.0.xpi"
          },
         {
-            "version": "1.1","update_link": "https://drive.google.com/file/d/1WT_fLqTJ7vi10ztvtFOi25pYc9TFy8zo/view?usp=sharing"
+            "version": "1.1",
+            "update_link": ""
          }
 
         ]
