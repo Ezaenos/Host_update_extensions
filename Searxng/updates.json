@@ -1,0 +1,17 @@
+{
+  "addons": {
+    "searxng@yourdomain.com": {
+      "updates": [
+        {
+          "version": "1.2",
+          "update_link": "https://yourdomain.com/path/to/updated/extension.xpi",
+          "applications": {
+            "gecko": {
+              "strict_min_version": "57.0"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
